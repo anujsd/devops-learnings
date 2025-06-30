@@ -1,0 +1,1 @@
+echo "Running every minute" >> output.txt
