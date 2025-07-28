@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "is_active": true,
+    "roles": ["admin", "user"],
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zip": "10001"
+    }
+  },
+  {
+    "name": "Anuj Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "is_active": true,
+    "roles": ["admin", "user"],
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zip": "10001"
+    }
+  }
+]
