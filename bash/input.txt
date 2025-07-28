@@ -1,4 +1,4 @@
 read this file for now
 sdsd
-sdwdwd
 ddsdsd
+image=nginx:latest

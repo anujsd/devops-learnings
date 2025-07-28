@@ -18,6 +18,8 @@ echo "Mem: ${mem_util}, Disk: ${disk_usage}, CPU: ${cpu_usage}"
 # Clean log folder
 find . -type f -name "f*" -exec rm -f {} \;
 
+find . -type f -size +1k
+
 # Tar file creation and unpacking
 # -c => create
 # -x => extract
