@@ -1,0 +1,5 @@
+ssh asd@192.168.1.24
+
+my name is anuj
+I need this to readen
+from shell

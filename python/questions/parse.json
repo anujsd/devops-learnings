@@ -1,0 +1,27 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "department": "Engineering",
+      "skills": ["Python", "Docker", "Kubernetes"]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "department": "Marketing",
+      "skills": ["SEO", "Content Writing"]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "department": "Finance",
+      "skills": ["Excel", "Accounting", "Python"]
+    }
+  ],
+  "company": {
+    "name": "Tech Solutions",
+    "location": "New York",
+    "founded": 2010
+  }
+}

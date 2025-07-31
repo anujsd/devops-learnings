@@ -1,0 +1,3 @@
+copy from remote to local
+
+scp -r asd@192.168.1.24:/home/asd/learnings/bash ./questions
