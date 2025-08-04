@@ -84,3 +84,40 @@
 # 7 Check if number is perfect or not
 # ####################################################
 
+# num = 6
+
+# def is_perfect(num):
+#     sum_of_divisor=0
+#     for i in range(1,num):
+#         if num%i==0:
+#             sum_of_divisor+=i
+#     return num==sum_of_divisor
+
+# if(is_perfect(num)):
+#     print(f"{num} is perfect number")
+# else:
+#     print(f"{num} is not perfect number")
+
+# Method 2
+# sum = sum([ i for i in range(1,num) if num%i==0 ])
+# print(sum)
+
+# ####################################################
+# 8 Check if number is armstrong or not
+# ####################################################
+
+
+# num = 153
+
+# numStr = str(num)
+# numStrLen = len(numStr)
+# ans = 0
+
+# for i in numStr:
+#     n = int(i)
+#     ans += n**numStrLen
+
+# if num==ans:
+#     print(f"{num} is armstrong number")
+# else:
+#     print(f"{num} is not armstrong number")
