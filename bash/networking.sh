@@ -24,6 +24,9 @@ traceroute google.com
 
 # show listening ports
 netstat -tuln
+# -t tcp -u udp -l listeners -n number only(for ports)
+
+ss -tuln
 
 # dns look up
 dig google.com

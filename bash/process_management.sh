@@ -1,6 +1,10 @@
 # See process
 ps -aux
 
+# -a: show processes for all users
+# -u: display process details like user, CPU, memory
+# -x: show processes not attached to a terminal (e.g., background services, daemons)
+
 # See tree of process who is launching who
 pstree -p # -p => for pids
 
